@@ -65,8 +65,8 @@ body {
 
 /* Footer */
 footer {
-	background: rgb(102, 101, 101);
-	color: lightgrey;
+	background: lightskyblue;
+	color: black;
 	font-size: 14px;
 	letter-spacing: 0.8px;
 	display: flex;
